@@ -199,8 +199,8 @@ z-30
       {/* Image */}
       <div className="relative w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-36 xl:h-36 rounded-3xl overflow-hidden">
         <Image
-          src="/Blueberryy.jpg"
-          alt="Blueberryy"
+          src="/Blueberry.jpg"
+          alt="Blueberry"
           fill
           className="object-cover hover:scale-110 transition-transform duration-700"
         />
